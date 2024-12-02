@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dXGdjP5CWAmpmadLMYRv-12" value="Users - id - email - password - role_id - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="100" width="180" height="100" as="geometry" />
+          <mxGeometry x="40" y="100" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dXGdjP5CWAmpmadLMYRv-13" value="Profiles - id - user_id - first_name - last_name - bio - profile_picture - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="100" width="180" height="100" as="geometry" />
@@ -14,7 +14,7 @@
           <mxGeometry x="450" y="100" width="120" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dXGdjP5CWAmpmadLMYRv-15" value="Posts - id - title - content - user_id - category_id - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="300" width="180" height="100" as="geometry" />
+          <mxGeometry x="40" y="300" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dXGdjP5CWAmpmadLMYRv-16" value="Categories - id - name - description - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="300" width="180" height="100" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="650" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dXGdjP5CWAmpmadLMYRv-19" value="Comments - id - content - post_id - user_id - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="500" width="180" height="100" as="geometry" />
+          <mxGeometry x="40" y="500" width="180" height="100" as="geometry" />
         </mxCell>
         <mxCell id="dXGdjP5CWAmpmadLMYRv-20" value="Replies - id - comment_id - user_id - content - created_at - updated_at" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="500" width="180" height="100" as="geometry" />
